@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\ai.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ai.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\AIRecipe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AIRecipe.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\ingredientsList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingredientsList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ingredientsList.jsx",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\ingredientsList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingredientsList.jsx",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\ingredientsList.jsx",
+              "RelativeToolTip": "src\\components\\ingredientsList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-09T13:55:16.338Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ai.js",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\ai.js",
+              "RelativeDocumentMoniker": "ai.js",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\ai.js",
+              "RelativeToolTip": "ai.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T13:15:10.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\main.jsx",
+              "RelativeDocumentMoniker": "src\\components\\main.jsx",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\main.jsx",
+              "RelativeToolTip": "src\\components\\main.jsx",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-09T08:31:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIRecipe.jsx",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\AIRecipe.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AIRecipe.jsx",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\AIRecipe.jsx",
+              "RelativeToolTip": "src\\components\\AIRecipe.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-13T04:44:32.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.jsx",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\app.jsx",
+              "RelativeDocumentMoniker": "src\\app.jsx",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\app.jsx",
+              "RelativeToolTip": "src\\app.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-09T08:31:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T12:49:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "header.jsx",
+              "DocumentMoniker": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\header.jsx",
+              "RelativeDocumentMoniker": "src\\components\\header.jsx",
+              "ToolTip": "C:\\Users\\elija\\Documents\\ReactProjects\\thirdReactProject\\src\\components\\header.jsx",
+              "RelativeToolTip": "src\\components\\header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-09T08:31:07.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
